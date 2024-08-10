@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/kinetic/include/**",
+        "/home/freescale/Manipulator_control/src/base_control/include/**",
+        "/home/freescale/Manipulator_control/src/key_board/include/**",
+        "/home/freescale/catkin_ws/src/iai_kinect2/kinect2_bridge/include/**",
+        "/home/freescale/catkin_ws/src/iai_kinect2/kinect2_calibration/include/**",
+        "/home/freescale/catkin_ws/src/iai_kinect2/kinect2_registration/include/**",
+        "/home/freescale/catkin_ws/src/using_markers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
